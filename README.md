@@ -52,7 +52,7 @@ Live Website
 ![Actions](screenshots/actions-success.png)
 
 ### 🔹 EC2 Instance Running
-![EC2](screenshots/ec2-instance.png)
+![EC2](screenshots/ec2-running.png)
 
 ### 🔹 Live Website Output
 ![Website](screenshots/website-output.png)
